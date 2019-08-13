@@ -5,11 +5,12 @@ Spoken Language Identification is a way to detect what language is used in a con
 ## Requirements
 
 - Python 3.6
-- soundfile
-- sklearn
-- tensorflow or keras
-- numpy
-- pandas
+- Joblib
+- Soundfile
+- Scikit-learn
+- Tensorflow or Keras
+- Numpy
+- Pandas
 
 ## Instruction
 
